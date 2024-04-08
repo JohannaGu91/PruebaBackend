@@ -1,0 +1,60 @@
+FECHA:2024-04-07 21:26:15 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-07 21:26:30 - [4]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-07 21:26:30 - [4]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-07 21:27:14 - [13]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-07 21:27:14 - [13]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-07 21:27:14 - [13]
+ERROR : Could not find specified column in results: nombre 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Error 
+EXCEPTION:System.IndexOutOfRangeException: Could not find specified column in results: nombre
+   at MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   at MySql.Data.MySqlClient.MySqlDataReader.get_Item(String name)
+   at ApiModAdmin.Data.DAO.Usuarios.Usuario.ConListaUsuarios(IDataRecord dr) in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Data\DAO\Usuarios\Usuario.cs:line 11
+   at ApiModAdmin.Data.DAO.Usuarios.UsuarioDAO.ConUsuarios() in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Data\DAO\Usuarios\UsuarioDAO.cs:line 25
+   at ApiModAdmin.Controllers.UsuariosController.GetUsuarios() in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Controllers\UsuariosController.cs:line 29
+ 
+FECHA:2024-04-07 21:46:43 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-07 21:47:04 - [6]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-07 21:47:04 - [6]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 

@@ -1,0 +1,630 @@
+FECHA:2024-04-08 02:05:40 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:05:52 - [4]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:05:52 - [4]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:11:23 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:11:29 - [16]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:11:29 - [16]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:11:36 - [6]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:11:36 - [6]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:11:56 - [16]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:11:56 - [16]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:12:08 - [6]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:12:08 - [6]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:13:08 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:14:15 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:14:25 - [6]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:14:25 - [6]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:14:36 - [9]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:14:36 - [9]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:15:38 - [9]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:15:38 - [9]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:20:24 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:20:33 - [4]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:20:33 - [4]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:22:06 - [20]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:22:06 - [20]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:22:19 - [27]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:22:19 - [27]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:23:01 - [24]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:23:01 - [24]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:26:22 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:26:31 - [12]
+INFO  : Ingresando CargosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:26:31 - [12]
+INFO  : Consulta de Cargos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:26:47 - [9]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:26:47 - [9]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:28:57 - [27]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:28:57 - [27]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:42:15 - [16]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:42:15 - [16]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:43:36 - [4]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:43:36 - [4]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:46:17 - [33]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:46:17 - [33]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:47:11 - [35]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:47:11 - [35]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:49:37 - [46]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:49:37 - [46]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:51:16 - [50]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:51:16 - [50]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:54:12 - [59]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:54:12 - [59]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:54:53 - [54]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:54:53 - [54]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:56:33 - [52]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:56:33 - [52]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:59:27 - [39]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:59:27 - [39]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:59:40 - [39]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 02:59:40 - [39]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:00:11 - [39]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:00:11 - [39]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:02:03 - [33]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:02:03 - [33]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:05:23 - [67]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:05:23 - [67]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:05:29 - [67]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:05:29 - [67]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:09:13 - [14]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:09:13 - [14]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:11:59 - [57]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:11:59 - [57]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:12:52 - [58]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:12:52 - [58]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:17:06 - [4]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:17:06 - [4]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:18:04 - [4]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:18:04 - [4]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:19:22 - [19]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 03:19:22 - [19]
+INFO  : Consulta de Departamentos. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:03:00 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:03:22 - [18]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:03:22 - [18]
+INFO  : Consulta de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:03:54 - [18]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:03:54 - [18]
+INFO  : Consulta de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:04:19 - [22]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:04:19 - [22]
+INFO  : Consulta de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:07:38 - [1]
+INFO  : Starting the Host 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:08:10 - [16]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:08:10 - [16]
+INFO  : Actualización de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:08:11 - [16]
+ERROR : Unknown column 'e_id' in 'where clause' 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Error 
+EXCEPTION:MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'e_id' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacketAsync(Boolean execAsync)
+   at MySql.Data.MySqlClient.NativeDriver.GetResultAsync(Int32 affectedRow, Int64 insertedId, Boolean execAsync)
+   at MySql.Data.MySqlClient.Driver.GetResultAsync(Int32 statementId, Int32 affectedRows, Int64 insertedId, Boolean execAsync)
+   at MySql.Data.MySqlClient.Driver.NextResultAsync(Int32 statementId, Boolean force, Boolean execAsync)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResultAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResultAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQueryAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at ApiModAdmin.Data.Conexion.ConMySql.ejecutaQuery() in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Data\Conexion\ConMySql.cs:line 50
+   at ApiModAdmin.Data.DAO.Usuarios.UsuarioDAO.ActualizaUsuario(DatosUsuario datos) in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Data\DAO\Usuarios\UsuarioDAO.cs:line 102
+   at ApiModAdmin.Controllers.UsuariosController.ActUsuario(DatosUsuario datosUsuario) in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Controllers\UsuariosController.cs:line 87
+ 
+FECHA:2024-04-08 05:08:39 - [16]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:08:39 - [16]
+INFO  : Actualización de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:10:27 - [16]
+ERROR : Unknown column 'e_id' in 'where clause' 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Error 
+EXCEPTION:MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'e_id' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacketAsync(Boolean execAsync)
+   at MySql.Data.MySqlClient.NativeDriver.GetResultAsync(Int32 affectedRow, Int64 insertedId, Boolean execAsync)
+   at MySql.Data.MySqlClient.Driver.GetResultAsync(Int32 statementId, Int32 affectedRows, Int64 insertedId, Boolean execAsync)
+   at MySql.Data.MySqlClient.Driver.NextResultAsync(Int32 statementId, Boolean force, Boolean execAsync)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResultAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResultAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQueryAsync(Boolean execAsync, CancellationToken cancellationToken)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at ApiModAdmin.Data.Conexion.ConMySql.ejecutaQuery() in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Data\Conexion\ConMySql.cs:line 50
+   at ApiModAdmin.Data.DAO.Usuarios.UsuarioDAO.ActualizaUsuario(DatosUsuario datos) in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Data\DAO\Usuarios\UsuarioDAO.cs:line 102
+   at ApiModAdmin.Controllers.UsuariosController.ActUsuario(DatosUsuario datosUsuario) in C:\Users\johanna.guano\source\repos\WebApplication2\WebApplication2\Controllers\UsuariosController.cs:line 87
+ 
+FECHA:2024-04-08 05:10:30 - [16]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:10:30 - [16]
+INFO  : Actualización de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:10:57 - [21]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:10:57 - [21]
+INFO  : Actualización de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:12:54 - [21]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:12:54 - [21]
+INFO  : Actualización de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:16:09 - [7]
+INFO  : Ingresando UsuariosController 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
+FECHA:2024-04-08 05:16:09 - [7]
+INFO  : Actualización de Usuarios. 
+REQUEST-URL:(null) - METHOD:(null) - LINE:Providers.LoggerManager 
+REMOTE-IP-ADDRESS: (null) - (null) 
+STACKTRACE-DETAIL:ApiModAmin.Providers.LoggerManager.Info 
+EXCEPTION: 
